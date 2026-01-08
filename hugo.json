@@ -1,0 +1,66 @@
+{
+  "baseURL": "https://web-sb.de",
+  "languageCode": "de-de",
+  "title": "WEB-SB - Professionelle, statische Webentwicklung",
+  "minify": true,
+  "enableRobotsTXT": true,
+  "disableKinds": ["taxonomy", "term"],
+  "markup": {
+    "goldmark": {
+      "extensions": {
+        "attributes": true,
+        "linkify": false
+      },
+      "renderer": {
+        "unsafe": true
+      }
+    }
+  },
+  "params": {
+    "logo": "/logo.webp",
+    "icon": "/icon.webp",
+    "cover": "/logo.webp",
+    "colors": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "surface": "#ebeeff",
+      "element_background": "#304ffe",
+      "element_text": "#ffffff"
+    },
+    "description": "WEB-SB - Professionelle Webentwicklung für gemeinnützige Vereine. Minimalistische, ultraschnelle Websites mit Hugo.",
+    "author": "Sebastian Brunner",
+    "seo": {
+      "keywords": "Webentwicklung, Hugo, semantisch, ultraschnell, Websites",
+      "robots": "index, follow",
+      "google_site_verification": ""
+    },
+    "geo": {
+      "latitude": "48.3914854",
+      "longitude": "13.1294955",
+      "region": "BY",
+      "placename": "Kößlarn"
+    },
+    "business": {
+      "name": "WEB-SB",
+      "image": "cover.webp",
+      "address": {
+        "streetAddress": "Enthof 2",
+        "addressLocality": "Kößlarn",
+        "postalCode": "94149",
+        "addressCountry": "DE"
+      },
+      "telephone": "",
+      "url": "https://web-sb.de",
+      "email": "info@web-sb.de",
+      "openingHours": [],
+      "priceRange": ""
+    }
+  },
+  "module": {
+    "imports": [
+      {
+        "path": "/Users/sbbrnnr/Documents/software/hugo-web-sb"
+      }
+    ]
+  }
+}
