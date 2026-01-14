@@ -61,4 +61,4 @@ echo "Git-Operationen abgeschlossen!"
 
 # Zusätzliche Hugo-Befehle (nicht Teil des Deploy-Skripts, nur als Referenz):
 # Lokaler Server:
-# hugo server --bind 0.0.0.0 --baseURL http://$(hostname -I | awk '{print $1}'):1313
+# hugo server --bind 0.0.0.0 --baseURL http://$(ifconfig | grep "inet " | grep -v 127.0.0.1 | awk '{print $2}' | head -1):1313

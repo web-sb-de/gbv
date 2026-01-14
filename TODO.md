@@ -15,7 +15,7 @@ yahir.ns.cloudflare.com
 - Neues Git Repo erstellen
 
 cd ~/Documents/software/
-NAME=test-repo;
+NAME=ffw-web-sb-de;
 gh repo create $NAME --private && 
 git clone https://github.com/sbbrnnr123/web-sb-demo.git $NAME && 
 cd $NAME && 

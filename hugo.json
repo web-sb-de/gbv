@@ -5,6 +5,9 @@
   "minify": true,
   "enableRobotsTXT": true,
   "disableKinds": ["taxonomy", "term"],
+  "frontmatter": {
+    "lastmod": ["lastmod", ":fileModTime", ":default"]
+  },
   "markup": {
     "goldmark": {
       "extensions": {

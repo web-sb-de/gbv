@@ -10,7 +10,7 @@ sitemap:
 ---
 
 <section class="hero-section">
-  <img class="hero-img" src="/cover.webp" alt="Beispielbild" />
+  {{< img src="cover.webp" width="1024x" alt="Cover" class="hero-img" >}}
 
   <div class="hero-overlay" style="background: radial-gradient(#00000055 50%, transparent)"></div>
   <h1>Musterverein Musterstadt e.V.</h1>
@@ -24,20 +24,16 @@ sitemap:
 </section>
 
 <section id="ueber-uns" class="flex-col">
-  <div class="img-container">
-    <img src="/cover.webp" alt="Titelbild" loading="lazy" />
-  </div>
+  <div class="img-container">{{< img src="cover.webp" width="512x" alt="cover" >}}</div>
   <div>
     <h2>flex-col mit wenig Text</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    <a href="/termin/" class="btn">{{< icon "calendar" >}} Termin vereinbaren</a>
+    <a href="/kontakt/" class="btn">{{< icon "calendar" >}} Termin vereinbaren</a>
   </div>
 </section>
 
 <section class="flex-col-reverse">
-  <div class="img-container">
-    <img src="/photo.webp" alt="Titelbild" loading="lazy" />
-  </div>
+  <div class="img-container">{{< img src="cover.webp" width="512x" alt="cover" >}}</div>
   <div>
     <h2>flex-col-reverse mit viel Text</h2>
     <p>
@@ -53,6 +49,6 @@ sitemap:
       dicta sunt explicabo.
     </p>
     <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-    <a href="/termin/" class="btn">{{< icon "calendar" >}} Termin vereinbaren</a>
+    <a href="/kontakt/" class="btn">{{< icon "calendar" >}} Termin vereinbaren</a>
   </div>
 </section>
