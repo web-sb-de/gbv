@@ -1,7 +1,7 @@
 {
-  "baseURL": "https://demo.web-sb.de",
+  "baseURL": "https://gbv.web-sb.de",
   "languageCode": "de-de",
-  "title": "WEB-SB - Professionelle, statische Webentwicklung",
+  "title": "Verein für Gartenbau und Landespflege Kößlarn",
   "minify": true,
   "enableRobotsTXT": true,
   "disableKinds": ["taxonomy", "term"],
@@ -26,14 +26,14 @@
     "colors": {
       "background": "#ffffff",
       "text": "#000000",
-      "surface": "#ebeeff",
-      "element_background": "#304ffe",
+      "surface": "#eeffee",
+      "element_background": "#006600",
       "element_text": "#ffffff"
     },
-    "description": "WEB-SB - Professionelle Webentwicklung für gemeinnützige Vereine. Minimalistische, ultraschnelle Websites mit Hugo.",
-    "author": "Sebastian Brunner",
+    "description": "Der Verein für Gartenbau und Landespflege Kößlarn engagiert sich für die Förderung des Gartenbaus und die Pflege der Landschaft in Kößlarn und Umgebung.",
+    "author": "Verein für Gartenbau und Landespflege Kößlarn",
     "seo": {
-      "keywords": "Webentwicklung, Hugo, semantisch, ultraschnell, Websites",
+      "keywords": "Verein für Gartenbau und Landespflege Kößlarn, Gartenbau, Landespflege, Kößlarn, Garten, Landschaft, Naturschutz",
       "robots": "index, follow",
       "google_site_verification": ""
     },
@@ -44,7 +44,7 @@
       "placename": "Kößlarn"
     },
     "business": {
-      "name": "WEB-SB",
+      "name": "Verein für Gartenbau und Landespflege Kößlarn",
       "image": "cover.webp",
       "address": {
         "streetAddress": "Enthof 2",
@@ -53,7 +53,7 @@
         "addressCountry": "DE"
       },
       "telephone": "",
-      "url": "https://demo.web-sb.de",
+      "url": "https://gbv.web-sb.de",
       "email": "info@web-sb.de",
       "openingHours": [],
       "priceRange": ""

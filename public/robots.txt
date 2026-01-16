@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://demo.web-sb.de//sitemap.xml
+Sitemap: https://gbv.web-sb.de//sitemap.xml
