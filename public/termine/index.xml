@@ -132,6 +132,7 @@
  &lt;h2&gt;Kripperlweg Sonntag, 14.12.2025&lt;/h2&gt;
  &lt;p&gt;Am Sonntag setzen wir den Kripperlweg fort. Lassen Sie sich von der weihnachtlichen Atmosphäre verzaubern.&lt;/p&gt;
  &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
+ &lt;!-- prettier-ignore --&gt;
  
  
  
@@ -145,7 +146,7 @@
  
  
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img2_hu_4d9adaf34d47ef7c.webp"
  alt="Cover"
  loading="lazy"
@@ -164,8 +165,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img3_hu_efdf7bf1af90aed1.webp"
  alt="Cover"
  loading="lazy"
@@ -184,8 +186,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img4_hu_ecdea4b46c1e934e.webp"
  alt="Cover"
  loading="lazy"
@@ -204,8 +207,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img5_hu_5806e522fed3c1d.webp"
  alt="Cover"
  loading="lazy"
@@ -224,8 +228,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img6_hu_b946782e966b3b13.webp"
  alt="Cover"
  loading="lazy"
@@ -244,8 +249,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img1_hu_3d9aaee73e24ba9d.webp"
  alt="Cover"
  loading="lazy"

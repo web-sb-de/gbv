@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Verein für Gartenbau und Landespflege Kößlarn</title><link>https://gbv.web-sb.de/</link><description>Recent content in Startseite on Verein für Gartenbau und Landespflege Kößlarn</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Fri, 16 Jan 2026 16:33:25 +0100</lastBuildDate><atom:link href="https://gbv.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Über uns</title><link>https://gbv.web-sb.de/verein/ueber-uns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/verein/ueber-uns/</guid><description>&lt;section class="flex-col"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Verein für Gartenbau und Landespflege Kößlarn</title><link>https://gbv.web-sb.de/</link><description>Recent content in Startseite on Verein für Gartenbau und Landespflege Kößlarn</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Sun, 18 Jan 2026 17:04:52 +0100</lastBuildDate><atom:link href="https://gbv.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Über uns</title><link>https://gbv.web-sb.de/verein/ueber-uns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/verein/ueber-uns/</guid><description>&lt;section class="flex-col"&gt;
  &lt;div class="img-container"&gt;
 
 
@@ -331,6 +331,7 @@
  &lt;h2&gt;Kripperlweg Sonntag, 14.12.2025&lt;/h2&gt;
  &lt;p&gt;Am Sonntag setzen wir den Kripperlweg fort. Lassen Sie sich von der weihnachtlichen Atmosphäre verzaubern.&lt;/p&gt;
  &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
+ &lt;!-- prettier-ignore --&gt;
  
  
  
@@ -344,7 +345,7 @@
  
  
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img2_hu_4d9adaf34d47ef7c.webp"
  alt="Cover"
  loading="lazy"
@@ -363,8 +364,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img3_hu_efdf7bf1af90aed1.webp"
  alt="Cover"
  loading="lazy"
@@ -383,8 +385,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img4_hu_ecdea4b46c1e934e.webp"
  alt="Cover"
  loading="lazy"
@@ -403,8 +406,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img5_hu_5806e522fed3c1d.webp"
  alt="Cover"
  loading="lazy"
@@ -423,8 +427,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img6_hu_b946782e966b3b13.webp"
  alt="Cover"
  loading="lazy"
@@ -443,8 +448,9 @@
  
  
  
+ 
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://gbv.web-sb.de/termine/kripperlweg/img1_hu_3d9aaee73e24ba9d.webp"
  alt="Cover"
  loading="lazy"
