@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://169.254.171.135:56421//sitemap.xml
+Sitemap: https://gbv.web-sb.de//sitemap.xml
