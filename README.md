@@ -11,5 +11,3 @@
 ## /termine
 
 - Aktuelle Daten
-
-update
