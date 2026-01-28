@@ -2,9 +2,10 @@
   "baseURL": "https://gbv.web-sb.de",
   "languageCode": "de-de",
   "title": "Verein für Gartenbau und Landespflege Kößlarn",
-  "minify": true,
   "enableRobotsTXT": true,
-  "disableKinds": ["taxonomy", "term"],
+  "taxonomies": {
+    "tag": "tags"
+  },
   "frontmatter": {
     "lastmod": ["lastmod", ":fileModTime", ":default"]
   },
@@ -24,37 +25,39 @@
     "icon": "/icon.webp",
     "cover": "/cover.webp",
     "colors": {
-      "background": "#ffffff",
+      "bg": "#ffffff",
       "text": "#000000",
-      "surface": "#eeffee",
-      "element_background": "#006600",
-      "element_text": "#ffffff"
+      "surface": "#00660011",
+      "btn": "#006600",
+      "btn_text": "#ffffff",
+      "btn_tonal": "#00660011",
+      "btn_tonal_text": "#000000"
     },
-    "description": "Der Verein für Gartenbau und Landespflege Kößlarn engagiert sich für die Förderung des Gartenbaus und die Pflege der Landschaft in Kößlarn und Umgebung.",
+    "description": "Verein für Gartenbau und Landespflege Kößlarn",
     "author": "Verein für Gartenbau und Landespflege Kößlarn",
     "seo": {
-      "keywords": "Verein für Gartenbau und Landespflege Kößlarn, Gartenbau, Landespflege, Kößlarn, Garten, Landschaft, Naturschutz",
+      "keywords": "Gartenbau, Verein, Pflanzen, Garten, Landespflege, Umwelt, Natur, Mitgliedschaft, Termine",
       "robots": "index, follow",
       "google_site_verification": ""
     },
     "geo": {
-      "latitude": "48.3914854",
-      "longitude": "13.1294955",
+      "latitude": "48.363642410711634",
+      "longitude": "13.111139991306096",
       "region": "BY",
       "placename": "Kößlarn"
     },
     "business": {
-      "name": "Verein für Gartenbau und Landespflege Kößlarn",
+      "name": "Gartenbauverein Kößlarn",
       "image": "cover.webp",
       "address": {
-        "streetAddress": "Enthof 2",
+        "streetAddress": "Waldstraße",
         "addressLocality": "Kößlarn",
         "postalCode": "94149",
         "addressCountry": "DE"
       },
       "telephone": "",
       "url": "https://gbv.web-sb.de",
-      "email": "info@web-sb.de",
+      "email": "info@gbv.web-sb.de",
       "openingHours": [],
       "priceRange": ""
     }
@@ -62,7 +65,7 @@
   "module": {
     "imports": [
       {
-        "path": "/Users/sbbrnnr/Documents/software/theme"
+        "path": "/Users/web-sb/Documents/GitHub/theme"
       }
     ]
   }
