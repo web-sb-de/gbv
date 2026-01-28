@@ -46,7 +46,7 @@
 &lt;/section&gt;</description></item><item><title>Kripperlweg</title><link>https://gbv.web-sb.de/aktuelles/2025/kripperlweg/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/kripperlweg/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
- &lt;img src="cover.webp" width="512x" alt="Kripperlweg" /&gt;
+ &lt;img class="img-gallery" src="cover.webp" width="512x" alt="Kripperlweg" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Kripperl&amp;shy;weg&lt;/h1&gt;
@@ -64,32 +64,32 @@
 &lt;/section&gt;</description></item><item><title>Herbstfest</title><link>https://gbv.web-sb.de/aktuelles/2025/herbstfest/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/herbstfest/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
- &lt;img src="cover.webp" width="512x" alt="Herbstfest" /&gt;
+ &lt;img class="img-gallery" src="cover.webp" width="512x" alt="Herbstfest" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Herbst&amp;shy;fest&lt;/h1&gt;
  &lt;p&gt;Wir laden herzlich zu unserem Herbstfest ein. Ein Highlight ist wie jedes Jahr das Kürbiswiegen.&lt;/p&gt;
- &lt;div class="btn-group"&gt;
- &lt;a href="https://gbv.web-sb.de/kontakt/" class="btn" aria-label="Kontakt" title="Kontakt"&gt;&lt;i&gt;contact&lt;/i&gt; Kontakt&lt;/a&gt;
- &lt;/div&gt;
+ 
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
- &lt;h2&gt;Wann &amp; Wo?&lt;/h2&gt;
- &lt;p&gt;&lt;strong&gt;Datum:&lt;/strong&gt; Sonntag, 21.09.2025&lt;br&gt;
- &lt;strong&gt;Uhrzeit:&lt;/strong&gt; ab 11:00 Uhr&lt;br&gt;
- &lt;strong&gt;Ort:&lt;/strong&gt; Sportplatz Kößlarn&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Programm&lt;/h2&gt;
- &lt;p&gt;Kürbiswiegen und geselliges Beisammensein.&lt;/p&gt;
-&lt;/section&gt;</description></item><item><title>Pflanzentauschbörse</title><link>https://gbv.web-sb.de/aktuelles/2025/pflanzentauschboerse/</link><pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/pflanzentauschboerse/</guid><description>&lt;section&gt;
+ &lt;h2&gt;Häufige Fragen&lt;/h2&gt;
+ &lt;details&gt;
+ &lt;summary&gt;Kann jeder am Kürbiswiegen teilnehmen?&lt;/summary&gt;
+ &lt;p&gt;Ja, jeder Hobbygärtner ist herzlich eingeladen, seinen Riesenkürbis wiegen zu lassen. Eine Anmeldung ist vor Ort möglich.&lt;/p&gt;
+ &lt;/details&gt;
+ &lt;details&gt;
+ &lt;summary&gt;Findet das Fest bei Regen statt?&lt;/summary&gt;
+ &lt;p&gt;Ja, das Fest findet bei jeder Witterung statt. Bei schlechtem Wetter bieten wir überdachte Sitzmöglichkeiten an.&lt;/p&gt;
+ &lt;/details&gt;
+ &lt;details&gt;
+ &lt;summary&gt;Ist für Verpflegung gesorgt?&lt;/summary&gt;
+ &lt;p&gt;Selbstverständlich! Es gibt diverse Schmankerl sowie Kaffee und Kuchen. Auch für Getränke ist bestens gesorgt.&lt;/p&gt;</description></item><item><title>Pflanzentauschbörse</title><link>https://gbv.web-sb.de/aktuelles/2025/pflanzentauschboerse/</link><pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/pflanzentauschboerse/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
- &lt;img src="cover.webp" width="512x" alt="Pflanzentauschbörse" /&gt;
+ &lt;img class="img-gallery" src="cover.webp" width="512x" alt="Pflanzentauschbörse" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Pflanzen&amp;shy;tausch&amp;shy;börse&lt;/h1&gt;
