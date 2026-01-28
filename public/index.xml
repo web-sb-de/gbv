@@ -51,16 +51,28 @@
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Kripperl&amp;shy;weg&lt;/h1&gt;
  &lt;p&gt;Lassen Sie sich verzaubern von den vielfältigen Krippendarstellungen entlang unseres Weges.&lt;/p&gt;
- &lt;div class="btn-group"&gt;
- &lt;a href="https://gbv.web-sb.de/kontakt/" class="btn" aria-label="Kontakt" title="Kontakt"&gt;&lt;i&gt;contact&lt;/i&gt; Kontakt&lt;/a&gt;
- &lt;/div&gt;
+ 
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/section&gt;
 
+
 &lt;section&gt;
- &lt;h2&gt;Termin&lt;/h2&gt;
- &lt;p&gt;&lt;strong&gt;Samstag, 13.12.2025&lt;/strong&gt; bis &lt;strong&gt;Sonntag, 14.12.2025&lt;/strong&gt;&lt;/p&gt;
+ &lt;h2&gt;Eindrücke&lt;/h2&gt;
+ &lt;div class="img-group"&gt;
+ &lt;img class="img-gallery" src="img-01.jpg" width="1000x" alt="Kripperlweg Eindruck 1" /&gt;
+ &lt;img class="img-gallery" src="img-02.jpg" width="1000x" alt="Kripperlweg Eindruck 2" /&gt;
+ &lt;img class="img-gallery" src="img-03.jpg" width="1000x" alt="Kripperlweg Eindruck 3" /&gt;
+ &lt;img class="img-gallery" src="img-04.jpg" width="1000x" alt="Kripperlweg Eindruck 4" /&gt;
+ &lt;img class="img-gallery" src="img-05.jpg" width="1000x" alt="Kripperlweg Eindruck 5" /&gt;
+ &lt;img class="img-gallery" src="img-06.jpg" width="1000x" alt="Kripperlweg Eindruck 6" /&gt;
+ &lt;img class="img-gallery" src="img-07.jpg" width="1000x" alt="Kripperlweg Eindruck 7" /&gt;
+ &lt;img class="img-gallery" src="img-08.jpg" width="1000x" alt="Kripperlweg Eindruck 8" /&gt;
+ &lt;img class="img-gallery" src="img-09.jpg" width="1000x" alt="Kripperlweg Eindruck 9" /&gt;
+ &lt;img class="img-gallery" src="img-10.jpg" width="1000x" alt="Kripperlweg Eindruck 10" /&gt;
+ &lt;img class="img-gallery" src="img-11.jpg" width="1000x" alt="Kripperlweg Eindruck 11" /&gt;
+ &lt;img class="img-gallery" src="img-12.jpg" width="1000x" alt="Kripperlweg Eindruck 12" /&gt;
+ &lt;/div&gt;
 &lt;/section&gt;</description></item><item><title>Herbstfest</title><link>https://gbv.web-sb.de/aktuelles/2025/herbstfest/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/herbstfest/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
@@ -94,23 +106,9 @@
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Pflanzen&amp;shy;tausch&amp;shy;börse&lt;/h1&gt;
  &lt;p&gt;Der Gartenbauverein Kößlarn lädt herzlich zur Pflanzentauschbörse ein. Hier können überzählige Pflanzen getauscht oder gegen eine kleine Spende erworben werden.&lt;/p&gt;
- &lt;div class="btn-group"&gt;
- &lt;a href="https://gbv.web-sb.de/kontakt/" class="btn" aria-label="Kontakt" title="Kontakt"&gt;&lt;i&gt;contact&lt;/i&gt; Kontakt&lt;/a&gt;
+ 
  &lt;/div&gt;
  &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Wann &amp; Wo?&lt;/h2&gt;
- &lt;p&gt;&lt;strong&gt;Datum:&lt;/strong&gt; Samstag, 03.05.2025&lt;br&gt;
- &lt;strong&gt;Uhrzeit:&lt;/strong&gt; ab 14:00 Uhr&lt;br&gt;
- &lt;strong&gt;Ort:&lt;/strong&gt; Kirchenhof Kößlarn&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Zusatzangebot&lt;/h2&gt;
- &lt;p&gt;Für das leibliche Wohl ist mit Kaffee und Kuchen bestens gesorgt.&lt;/p&gt;
 &lt;/section&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2014/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2014/jahresprogramm/</guid><description>&lt;section&gt;
  &lt;h1&gt;Jahresprogramm 2014&lt;/h1&gt;
 &lt;/section&gt;
