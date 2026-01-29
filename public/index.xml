@@ -10,10 +10,13 @@
 &lt;/section&gt;
 
 &lt;section&gt;
- &lt;h2&gt;&lt;a href="../pflanzentauschboerse/"&gt;Pflanzentauschbörse&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;Pflanzentauschbörse&lt;/h2&gt;
  &lt;h3&gt;Samstag, 03.05.2025, ab 14 Uhr&lt;/h3&gt;
  &lt;h3&gt;im Kirchenhof&lt;/h3&gt;
  &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a href="../pflanzentauschboerse/" class="btn"&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;
+ &lt;/div&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -29,10 +32,13 @@
 &lt;/section&gt;
 
 &lt;section&gt;
- &lt;h2&gt;&lt;a href="../herbstfest/"&gt;Herbstfest&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;Herbstfest&lt;/h2&gt;
  &lt;h3&gt;Sonntag, 21.09.2025, ab 11 Uhr&lt;/h3&gt;
  &lt;h3&gt;Sportplatz Kößlarn&lt;/h3&gt;
  &lt;p&gt;mit Kürbiswiegen&lt;/p&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a href="../herbstfest/" class="btn"&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;
+ &lt;/div&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -41,8 +47,11 @@
 &lt;/section&gt;
 
 &lt;section&gt;
- &lt;h2&gt;&lt;a href="../kripperlweg/"&gt;Kripperlweg&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;Kripperlweg&lt;/h2&gt;
  &lt;h3&gt;Samstag, 13.12.2025 und Sonntag, 14.12.2025&lt;/h3&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a href="../kripperlweg/" class="btn"&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;
+ &lt;/div&gt;
 &lt;/section&gt;</description></item><item><title>Kripperlweg</title><link>https://gbv.web-sb.de/aktuelles/2025/kripperlweg/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/kripperlweg/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
@@ -51,7 +60,9 @@
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Kripperl&amp;shy;weg&lt;/h1&gt;
  &lt;p&gt;Lassen Sie sich verzaubern von den vielfältigen Krippendarstellungen entlang unseres Weges.&lt;/p&gt;
- 
+ &lt;div class="btn-group"&gt;
+ &lt;a class="btn" target="_blank" href="https://www.google.com/maps?q=Krippenwanderweg,+94149+Kößlarn" aria-label="Anfahrt planen"&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;
+ &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/section&gt;
@@ -456,13 +467,7 @@
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Der Verein&lt;/h2&gt;
- &lt;p&gt;Vereinsgründung am 21.03.1992 mit 12 Mitglieder&lt;/p&gt;
- &lt;p&gt;Momentan haben wir 100 Mitglieder&lt;/p&gt;
-&lt;/section&gt;</description></item><item><title>Datenschutz</title><link>https://gbv.web-sb.de/datenschutz/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/datenschutz/</guid><description>&lt;section&gt;
+&lt;/section&gt;</description></item><item><title>Datenschutz</title><link>https://gbv.web-sb.de/datenschutz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/datenschutz/</guid><description>&lt;section&gt;
  &lt;h1&gt;Datenschutz&amp;shy;erklärung&lt;/h1&gt;
 
  &lt;p&gt;
@@ -480,25 +485,15 @@
  &lt;h1&gt;Impressum&lt;/h1&gt;
  &lt;h2&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
  &lt;p&gt;
- [Vereinsname]&lt;br /&gt;
- [Straße Hausnummer]&lt;br /&gt;
- [PLZ Ort]
+ Verein für Gartenbau und Landespflege Kößlarn e.V.&lt;br /&gt;
+ Waldstraße&lt;br /&gt;
+ 94149 Kößlarn
  &lt;/p&gt;
- &lt;h3&gt;Vertreten durch&lt;/h3&gt;
- &lt;p&gt;[Vorname Nachname]&lt;/p&gt;
- &lt;h3&gt;Kontakt&lt;/h3&gt;
+ &lt;h3&gt;Vertretungsberechtigt und inhaltlich verantwortlich gemäß § 5 TMG und § 55 Abs. 2 RStV&lt;/h3&gt;
  &lt;p&gt;
- Telefon: [Telefonnummer]&lt;br /&gt;
- E-Mail: [E-Mail-Adresse]
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h3&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV&lt;/h3&gt;
- &lt;p&gt;
- [Vorname Nachname]&lt;br /&gt;
- [Straße Hausnummer]&lt;br /&gt;
- [PLZ Ort]
+ Karin Hartl, Vorstand&lt;br /&gt;
+ Waldstraße&lt;br /&gt;
+ 94149 Kößlarn
  &lt;/p&gt;
 &lt;/section&gt;
 
@@ -521,11 +516,11 @@
 &lt;section&gt;
  &lt;h2&gt;Adresse&lt;/h2&gt;
  &lt;p&gt;
- Freiwillige Feuerwehr Schönburg e.V.&lt;br /&gt;
- Schönburg 4a&lt;br /&gt;
- 94060 Pocking
+ Verein für Gartenbau und Landespflege Kößlarn e.V.&lt;br /&gt;
+ Waldstraße&lt;br /&gt;
+ 94149 Kößlarn
  &lt;/p&gt;
- &lt;a class="btn" target="_blank" href="https://www.google.com/maps?q=Freiwillige+Feuerwehr+Schönburg,+Schönburg+4a,+94060+Pocking" aria-label="Anfahrt planen"&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;
+ &lt;a class="btn" target="_blank" href="https://www.google.com/maps?q=Verein+für+Gartenbau+und+Landespflege+Kößlarn+e.V.,+Waldstraße,+94149+Kößlarn" aria-label="Anfahrt planen"&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;
 &lt;/section&gt;</description></item><item><title>Apfelsaft</title><link>https://gbv.web-sb.de/aktuelles/2018/apfelsaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2018/apfelsaft/</guid><description>&lt;script&gt;
 window.location.href = "Apfelsaft_2018.pdf";
 &lt;/script&gt;

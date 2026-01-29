@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2025 on Verein für Gartenbau und Landespflege Kößlarn</title><link>https://gbv.web-sb.de/aktuelles/2025/</link><description>Recent content in 2025 on Verein für Gartenbau und Landespflege Kößlarn</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Wed, 28 Jan 2026 17:26:22 +0100</lastBuildDate><atom:link href="https://gbv.web-sb.de/aktuelles/2025/index.xml" rel="self" type="application/rss+xml"/><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2025/jahresprogramm/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/jahresprogramm/</guid><description>&lt;section&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2025 on Verein für Gartenbau und Landespflege Kößlarn</title><link>https://gbv.web-sb.de/aktuelles/2025/</link><description>Recent content in 2025 on Verein für Gartenbau und Landespflege Kößlarn</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Thu, 29 Jan 2026 15:09:47 +0100</lastBuildDate><atom:link href="https://gbv.web-sb.de/aktuelles/2025/index.xml" rel="self" type="application/rss+xml"/><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2025/jahresprogramm/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/jahresprogramm/</guid><description>&lt;section&gt;
  &lt;h1&gt;Jahresprogramm 2025&lt;/h1&gt;
 &lt;/section&gt;
 
@@ -10,10 +10,13 @@
 &lt;/section&gt;
 
 &lt;section&gt;
- &lt;h2&gt;&lt;a href="../pflanzentauschboerse/"&gt;Pflanzentauschbörse&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;Pflanzentauschbörse&lt;/h2&gt;
  &lt;h3&gt;Samstag, 03.05.2025, ab 14 Uhr&lt;/h3&gt;
  &lt;h3&gt;im Kirchenhof&lt;/h3&gt;
  &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a href="../pflanzentauschboerse/" class="btn"&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;
+ &lt;/div&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -29,10 +32,13 @@
 &lt;/section&gt;
 
 &lt;section&gt;
- &lt;h2&gt;&lt;a href="../herbstfest/"&gt;Herbstfest&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;Herbstfest&lt;/h2&gt;
  &lt;h3&gt;Sonntag, 21.09.2025, ab 11 Uhr&lt;/h3&gt;
  &lt;h3&gt;Sportplatz Kößlarn&lt;/h3&gt;
  &lt;p&gt;mit Kürbiswiegen&lt;/p&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a href="../herbstfest/" class="btn"&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;
+ &lt;/div&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -41,8 +47,11 @@
 &lt;/section&gt;
 
 &lt;section&gt;
- &lt;h2&gt;&lt;a href="../kripperlweg/"&gt;Kripperlweg&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;Kripperlweg&lt;/h2&gt;
  &lt;h3&gt;Samstag, 13.12.2025 und Sonntag, 14.12.2025&lt;/h3&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a href="../kripperlweg/" class="btn"&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;
+ &lt;/div&gt;
 &lt;/section&gt;</description></item><item><title>Kripperlweg</title><link>https://gbv.web-sb.de/aktuelles/2025/kripperlweg/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/kripperlweg/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
@@ -51,7 +60,9 @@
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Kripperl&amp;shy;weg&lt;/h1&gt;
  &lt;p&gt;Lassen Sie sich verzaubern von den vielfältigen Krippendarstellungen entlang unseres Weges.&lt;/p&gt;
- 
+ &lt;div class="btn-group"&gt;
+ &lt;a class="btn" target="_blank" href="https://www.google.com/maps?q=Krippenwanderweg,+94149+Kößlarn" aria-label="Anfahrt planen"&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;
+ &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/section&gt;
