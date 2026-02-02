@@ -49,22 +49,17 @@
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/section&gt;</description></item><item><title>Kontakt</title><link>https://gbv.web-sb.de/infos/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/kontakt/</guid><description>&lt;section&gt;
- &lt;h1&gt;Kontakt&lt;/h1&gt;
- &lt;p&gt;
- Telefon: +49 123 456789&lt;br /&gt;
- E-Mail: info@example.com
- &lt;/p&gt;
- &lt;div class="btn-group"&gt;
- &lt;a class="btn" href="tel:+49123456789" aria-label="Anrufen"&gt;&lt;i&gt;phone&lt;/i&gt; Anrufen&lt;/a&gt;
- &lt;a class="btn" href="mailto:info@example.com" aria-label="E-Mail schreiben"&gt;&lt;i&gt;email&lt;/i&gt; E-Mail schreiben&lt;/a&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-&lt;section&gt;
- &lt;h2&gt;Adresse&lt;/h2&gt;
+ &lt;h2&gt;Kontakt&lt;/h2&gt;
  &lt;p&gt;
  Verein für Gartenbau und Landespflege Kößlarn e.V.&lt;br /&gt;
- Waldstraße&lt;br /&gt;
+ Karin Hartl, Vorstand&lt;br /&gt;
+ Danglöd&lt;br /&gt;
  94149 Kößlarn
  &lt;/p&gt;
- &lt;a class="btn" target="_blank" href="https://www.google.com/maps?q=Verein+für+Gartenbau+und+Landespflege+Kößlarn+e.V.,+Waldstraße,+94149+Kößlarn" aria-label="Anfahrt planen"&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;
+ &lt;p&gt;
+ Telefon: 08536 1337&lt;br /&gt;
+ &lt;/p&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a class="btn" href="tel:+4985361337" aria-label="Anrufen"&gt;&lt;i&gt;phone&lt;/i&gt; Anrufen&lt;/a&gt;
+ &lt;/div&gt;
 &lt;/section&gt;</description></item></channel></rss>

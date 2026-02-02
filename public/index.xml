@@ -1,602 +1,340 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Start on Verein für Gartenbau und Landespflege Kößlarn</title><link>https://gbv.web-sb.de/</link><description>Recent content in Start on Verein für Gartenbau und Landespflege Kößlarn</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://gbv.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Vorstandschaft</title><link>https://gbv.web-sb.de/infos/vorstandschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/vorstandschaft/</guid><description>&lt;section&gt;
- &lt;h1&gt;Vorstand&amp;shy;schaft&lt;/h1&gt;
- &lt;div class="grid grid-sm grid-border"&gt;
- &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;h3&gt;Karin Hartl&lt;/h3&gt;
- &lt;p&gt;1. Vorsitzende&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;h3&gt;Bernhard Müller&lt;/h3&gt;
- &lt;p&gt;2. Vorsitzender&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;h3&gt;Ulrike Hartl&lt;/h3&gt;
- &lt;p&gt;Schriftführerin&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;h3&gt;Anita Plattner&lt;/h3&gt;
- &lt;p&gt;Kassiererin&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;h3&gt;Norbert Hartl&lt;/h3&gt;
- &lt;p&gt;Beisitzer&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;h3&gt;Susi Osterholzer&lt;/h3&gt;
- &lt;p&gt;Beisitzer&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;h3&gt;Andreas Wagner&lt;/h3&gt;
- &lt;p&gt;Beisitzer&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;h3&gt;Hubert Schätz&lt;/h3&gt;
- &lt;p&gt;Baumwart&lt;/p&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;</description></item><item><title>Zeitungsbericht 1997</title><link>https://gbv.web-sb.de/aktuelles/1997/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/1997/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung1997.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung1997.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Mitgliedschaft</title><link>https://gbv.web-sb.de/infos/mitgliedschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/mitgliedschaft/</guid><description>&lt;section&gt;
- &lt;div class="grid grid-lg"&gt;
- &lt;div class="grid-item"&gt;
- &lt;img src="cover.webp" width="512x" alt="Mitglied werden" /&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- &lt;h1&gt;Mitglied&amp;shy;schaft&lt;/h1&gt;
- &lt;p&gt;Wenn du bei uns Mitglied werden möchtest, fülle bitte die Beitrittserklärung aus und leite diese an die Vorstand&amp;shy;schaft weiter.&lt;/p&gt;
- &lt;div class="btn-group"&gt;
- &lt;a href="Beitrittserklaerung-DSGVO-2024.pdf" target="_blank" class="btn" aria-label="Beitrittserklärung" title="Beitrittserklärung"&gt;&lt;i&gt;download&lt;/i&gt;Beitrittserklärung&lt;/a&gt;
- &lt;a href="https://gbv.web-sb.de/kontakt/" class="btn" aria-label="Kontakt" title="Kontakt"&gt;&lt;i&gt;contact&lt;/i&gt; Kontakt&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;</description></item><item><title>Kontakt</title><link>https://gbv.web-sb.de/infos/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/kontakt/</guid><description>&lt;section&gt;
- &lt;h1&gt;Kontakt&lt;/h1&gt;
- &lt;p&gt;
- Telefon: +49 123 456789&lt;br /&gt;
- E-Mail: info@example.com
- &lt;/p&gt;
- &lt;div class="btn-group"&gt;
- &lt;a class="btn" href="tel:+49123456789" aria-label="Anrufen"&gt;&lt;i&gt;phone&lt;/i&gt; Anrufen&lt;/a&gt;
- &lt;a class="btn" href="mailto:info@example.com" aria-label="E-Mail schreiben"&gt;&lt;i&gt;email&lt;/i&gt; E-Mail schreiben&lt;/a&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-&lt;section&gt;
- &lt;h2&gt;Adresse&lt;/h2&gt;
- &lt;p&gt;
- Verein für Gartenbau und Landespflege Kößlarn e.V.&lt;br /&gt;
- Waldstraße&lt;br /&gt;
- 94149 Kößlarn
- &lt;/p&gt;
- &lt;a class="btn" target="_blank" href="https://www.google.com/maps?q=Verein+für+Gartenbau+und+Landespflege+Kößlarn+e.V.,+Waldstraße,+94149+Kößlarn" aria-label="Anfahrt planen"&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;
-&lt;/section&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2025/jahresprogramm/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2025&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 10.04.2025, 19:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
- &lt;p&gt;Im Anschluss Vortrag:&lt;br&gt;"Ein Garten für Insekten &amp; Co. - unser Beitrag zum Artenschutz"&lt;br&gt;Referent: Alois Schrögmeier&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 03.05.2025, ab 14 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Kirchenhof&lt;/h3&gt;
- &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Töpferkurs&lt;/h2&gt;
- &lt;h3&gt;Montag, 02.06.2025, 18 Uhr&lt;/h3&gt;
- &lt;h3&gt;Grundschule Kößlarn&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Brauerei&amp;shy;besichtigung&lt;/h2&gt;
- &lt;h3&gt;Samstag, 12.07.2025, 16 Uhr&lt;/h3&gt;
- &lt;h3&gt;Weissbräu Kößlarn&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Herbstfest&lt;/h2&gt;
- &lt;h3&gt;Sonntag, 21.09.2025, ab 11 Uhr&lt;/h3&gt;
- &lt;h3&gt;Sportplatz Kößlarn&lt;/h3&gt;
- &lt;p&gt;mit Kürbiswiegen&lt;/p&gt;
- &lt;div class="btn-group"&gt;
- &lt;a href="../herbstfest/" class="btn"&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Herbstwanderung&lt;/h2&gt;
- &lt;h3&gt;Samstag, 18.10.2025&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Kripperlweg&lt;/h2&gt;
- &lt;h3&gt;Samstag, 13.12.2025 und Sonntag, 14.12.2025&lt;/h3&gt;
- &lt;div class="btn-group"&gt;
- &lt;a href="../kripperlweg/" class="btn"&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;
- &lt;/div&gt;
-&lt;/section&gt;</description></item><item><title>Kripperlweg</title><link>https://gbv.web-sb.de/aktuelles/2025/kripperlweg/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/kripperlweg/</guid><description>&lt;section&gt;
- &lt;div class="grid grid-lg"&gt;
- &lt;div class="grid-item"&gt;
- &lt;img class="img-gallery" src="cover.webp" width="512x" alt="Kripperlweg" /&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- &lt;h1&gt;Kripperl&amp;shy;weg&lt;/h1&gt;
- &lt;p&gt;Lassen Sie sich verzaubern von den vielfältigen Krippendarstellungen entlang unseres Weges.&lt;/p&gt;
- &lt;div class="btn-group"&gt;
- &lt;a class="btn" target="_blank" href="https://www.google.com/maps?q=Krippenwanderweg,+94149+Kößlarn" aria-label="Anfahrt planen"&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-&lt;section&gt;
- &lt;h2&gt;Eindrücke&lt;/h2&gt;
- &lt;div class="img-group"&gt;
- &lt;img class="img-gallery" src="img-01.webp" width="1000x" alt="Kripperlweg Eindruck 1" /&gt;
- &lt;img class="img-gallery" src="img-02.webp" width="1000x" alt="Kripperlweg Eindruck 2" /&gt;
- &lt;img class="img-gallery" src="img-03.webp" width="1000x" alt="Kripperlweg Eindruck 3" /&gt;
- &lt;img class="img-gallery" src="img-04.webp" width="1000x" alt="Kripperlweg Eindruck 4" /&gt;
- &lt;img class="img-gallery" src="img-05.webp" width="1000x" alt="Kripperlweg Eindruck 5" /&gt;
- &lt;img class="img-gallery" src="img-06.webp" width="1000x" alt="Kripperlweg Eindruck 6" /&gt;
- &lt;img class="img-gallery" src="img-07.webp" width="1000x" alt="Kripperlweg Eindruck 7" /&gt;
- &lt;img class="img-gallery" src="img-08.webp" width="1000x" alt="Kripperlweg Eindruck 8" /&gt;
- &lt;img class="img-gallery" src="img-09.webp" width="1000x" alt="Kripperlweg Eindruck 9" /&gt;
- &lt;img class="img-gallery" src="img-10.webp" width="1000x" alt="Kripperlweg Eindruck 10" /&gt;
- &lt;img class="img-gallery" src="img-11.webp" width="1000x" alt="Kripperlweg Eindruck 11" /&gt;
- &lt;img class="img-gallery" src="img-12.webp" width="1000x" alt="Kripperlweg Eindruck 12" /&gt;
- &lt;/div&gt;
-&lt;/section&gt;</description></item><item><title>Herbstfest</title><link>https://gbv.web-sb.de/aktuelles/2025/herbstfest/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2025/herbstfest/</guid><description>&lt;section&gt;
- &lt;div class="grid grid-lg"&gt;
- &lt;div class="grid-item"&gt;
- &lt;img class="img-gallery" src="cover.webp" width="1024x" alt="Herbstfest" /&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- &lt;h1&gt;Herbst&amp;shy;fest&lt;/h1&gt;
- &lt;p&gt;Wir laden herzlich zu unserem Herbstfest ein. Ein Highlight ist wie jedes Jahr das Kürbiswiegen.&lt;/p&gt;
- &lt;a href="https://www.google.com/maps?q=TSV+Kößlarn,+Waldstraße+27,+94149+Kößlarn" target="_blank" rel="noopener" class="btn" aria-label="Anfahrt planen" title="Anfahrt planen"&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Eindrücke&lt;/h2&gt;
- &lt;div class="img-group"&gt;
- &lt;img class="img-gallery" src="img-01.webp" width="1000x" alt="Herbstfest Eindruck 1" /&gt;
- &lt;img class="img-gallery" src="img-02.webp" width="1000x" alt="Herbstfest Eindruck 2" /&gt;
- &lt;img class="img-gallery" src="img-03.webp" width="1000x" alt="Herbstfest Eindruck 3" /&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Häufige Fragen&lt;/h2&gt;
- &lt;details&gt;
- &lt;summary&gt;Kann jeder am Kürbiswiegen teilnehmen?&lt;/summary&gt;
- &lt;p&gt;Ja, jeder Hobbygärtner ist herzlich eingeladen, seinen Riesenkürbis wiegen zu lassen. Eine Anmeldung ist vor Ort möglich.&lt;/p&gt;
- &lt;/details&gt;
- &lt;details&gt;
- &lt;summary&gt;Findet das Fest bei Regen statt?&lt;/summary&gt;
- &lt;p&gt;Ja, das Fest findet bei jeder Witterung statt. Bei schlechtem Wetter bieten wir überdachte Sitzmöglichkeiten an.&lt;/p&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2014/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2014/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2014&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 20. März 2014, 19:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier-Eichler&lt;/h3&gt;
- &lt;p&gt;anschl. Vortrag über Kräuter, Referentin: Frau Eder&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 03. Mai 2014, ab 9:00 Uhr&lt;/h3&gt;
- &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Fahrt zur Landesgarten&amp;shy;schau Deggendorf&lt;/h2&gt;
- &lt;h3&gt;Samstag, 31. Mai 2014, 9 Uhr&lt;/h3&gt;
- &lt;h3&gt;Abfahrt am Marktplatz&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Ferienprogramm&lt;/h2&gt;
- &lt;h3&gt;Freitag, 01. August 2014&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Erntedankfest&lt;/h2&gt;
- &lt;h3&gt;Sonntag, 14. September 2014&lt;/h3&gt;
- &lt;p&gt;Beteiligung mit Verkaufsstand&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Natürlicher Allerheiligen Grabschmuck selbstgemacht&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 23. Oktober 2014, ab 19:30 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Jugendheim&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Weitere Termine&lt;/h2&gt;
- &lt;p&gt;12.-18. März: Garten München&lt;br&gt;26. April: Tag der offenen Gärtnerei&lt;br&gt;29. Juni: Tag der offenen Gartentür&lt;br&gt;17. Oktober: Gartlerabend&lt;/p&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2015/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2015/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2015&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 26. März 2015, 19:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier-Eichler&lt;/h3&gt;
- &lt;p&gt;anschl. Vortrag über „Seniorengärten pflegeleicht gestalten“&lt;br&gt;Referent: Leopold Haschka&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Weidenflecht&amp;shy;kurs-Rankobjekte&lt;/h2&gt;
- &lt;h3&gt;Dienstag, 14. April 2015, 18:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;Treff um 17:45 am Marktplatz&lt;/h3&gt;
- &lt;p&gt;Referentin: Conny Raab&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 02. Mai 2015, ab 9:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;Marktplatz, Durchgang Piller&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Grillabend der Eberschützen&lt;/h2&gt;
- &lt;h3&gt;Samstag, 13. Juni 2015&lt;/h3&gt;
- &lt;h3&gt;Treff 18:30 Uhr beim Festgelände, Gasthaus Wieser&lt;/h3&gt;
- &lt;p&gt;mit Siegerehrung Gemeindepokalschießen&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Festzug der Eberschützen&lt;/h2&gt;
- &lt;h3&gt;Sonntag, 14. Juni 2015&lt;/h3&gt;
- &lt;h3&gt;Teff 8:30 Uhr beim Festgelände, Gasthaus Wieser&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Ausflug Schaukäserei Kuchl&lt;/h2&gt;
- &lt;h3&gt;Samstag, 25. Juli 2015&lt;/h3&gt;
- &lt;h3&gt;Abfahrt Marktplatz 9:30 Uhr&lt;/h3&gt;
- &lt;p&gt;Biobauernhof Fürstenhof Kuchl, Einkehr Christlalm&lt;br&gt;Kosten: 28 Euro&lt;/p&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2016/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2016/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2016&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 14. April 2016, 19:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
- &lt;p&gt;anschl. Vortrag über "Des Gärtners größter Feind" – Humorvoller Vortrag zum verbesserten Verständnis der Schnecken.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 07. Mai 2016, 9:00 - 12:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;Marktplatz, Durchgang Piller&lt;/h3&gt;
- &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Ausflug Lofer - Pillersee&lt;/h2&gt;
- &lt;h3&gt;24. September 2016&lt;/h3&gt;
- &lt;h3&gt;Abfahrt 7:00 Uhr Marktplatz&lt;/h3&gt;
- &lt;p&gt;Gemeinsamer Ausflug von Frauenbund und Gartenbau&amp;shy;verein&lt;br&gt;Heutal, Wallfahrt Maria Kirchental, Latschenölbrennerei St. Ulrich, Pillersee&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Schwammerlsuche&lt;/h2&gt;
- &lt;h3&gt;30. Oktober 2016, 10:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;Treff am Stapferparkplatz&lt;/h3&gt;
- &lt;p&gt;anschließend Einkehr in der Pizzeria zum Wiegen&lt;br&gt;1.-3. Platz Preise bei Pizzeria Rahim&lt;/p&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2017/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2017/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2017&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;Mittwoch, 08. März 2017, 19:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
- &lt;p&gt;anschl. Vortrag über "Gemüseverfrühung" – Referent: Peter Gasteiger&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 06. Mai 2017, 9:00 - 12:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;Marktplatz, Durchgang Hausner (Bachwieserl)&lt;/h3&gt;
- &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;25-Jahr-Feier Gartenbau&amp;shy;verein Kößlarn&lt;/h2&gt;
- &lt;h3&gt;Samstag, 24. Juni 2017&lt;/h3&gt;
- &lt;p&gt;14:00 Uhr: Gottesdienst&lt;br&gt;15:00 Uhr: Kaffee und Kuchen&lt;br&gt;ab 17:00 Uhr: Abendessen mit Ehrungen&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Ausflug zur Landesgarten&amp;shy;schau&lt;/h2&gt;
- &lt;h3&gt;Samstag, 12. August 2017&lt;/h3&gt;
- &lt;h3&gt;Kremsmünster&lt;/h3&gt;
- &lt;p&gt;Abfahrt Marktplatz: 8.30 Uhr Rückkehr: ca. 18.30 Uhr&lt;br&gt;Kosten (Fahrt inkl.Eintritt): 28Eur/Person - 9 Eur/Kind&lt;br&gt;THEMA an diesem Tag: Fest der Vielfalt!&lt;/p&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2018/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2018/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2018&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Vortrag: Patienten&amp;shy;verfügung&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 11. Januar 2018, 19:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
- &lt;p&gt;Thema: „Patienten&amp;shy;verfügung, Vorsorgevollmacht mit Betreuungsverfügung“&lt;br&gt;
- Referentin: Sr. M. Paula Helm, Krankenschwester OSB&lt;br&gt;
- Wann ist eine Patienten&amp;shy;verfügung gültig? Warum dürfen Ehepartner oder Angehörige im Krankheitsfall nicht gegenseitig bestimmen...?&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 05.Mai 2018, ab 9:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;Marktplatz, Durchgang Hausner (Bachwieserl)&lt;/h3&gt;
- &lt;p&gt;mit Kaffee und Kuchen und Kinderflohmarkt&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;17. Mai 2018, 19:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
- &lt;p&gt;mit Neuwahlen&lt;br&gt;Im Anschluss Vortrag: „Man ist was man isst“&lt;br&gt;Referentin: Frau Dr. Christina Holzapfel&lt;/p&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2019/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2019/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2019&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 04. Mai 2019, ab 9:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;Marktplatz, Durchgang Hausner (Bachwieserl)&lt;/h3&gt;
- &lt;p&gt;mit Kaffee und Kuchen und Kinderflohmarkt&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 16. Mai 2019, 19:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
-&lt;/section&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2021/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2021/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2021&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Wanderung rund um Kößlarn&lt;/h2&gt;
- &lt;h3&gt;Samstag, 02.10.2021&lt;/h3&gt;
- &lt;h3&gt;Treff 14 Uhr am Marktplatz&lt;/h3&gt;
- &lt;p&gt;Dauer ca. 2 Stunden, anschl. Einkehr im Gasthaus Bimesmeier, Info und Anmeldung bei Bernhard Müller - Tel. 0170 2128195&lt;/p&gt;
-&lt;/section&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2022/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2022/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2022&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 05.05.2022, 19:30 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
- &lt;p&gt;Im Anschluss Vortrag:&lt;br&gt;„Was Opa noch wusste! Altes Gärtnerwissen neu entdeckt.“&lt;br&gt;Referent: Alois Schrögmeier&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 07.05.2022, ab 14:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Kirchenhof&lt;/h3&gt;
- &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Herbstfest&lt;/h2&gt;
- &lt;h3&gt;Samstag, 17.09.2022, ab 16 Uhr&lt;/h3&gt;
- &lt;h3&gt;Sportplatz Kößlarn&lt;/h3&gt;
- &lt;p&gt;Kürbisiwiegen mit Prämierung&lt;br&gt;Kürbissuppe, Mostverkauf, Kaffee + Kuchen, ...&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Wanderung rund um Kößlarn&lt;/h2&gt;
- &lt;h3&gt;Samstag, 15.10.2022&lt;/h3&gt;
- &lt;h3&gt;Treff 13:30 Uhr am Marktplatz&lt;/h3&gt;
- &lt;p&gt;Dauer ca. 2,5 Stunden,&lt;br&gt;anschließend gemütliches Beisammensein im Gasthaus Bimesmeier - bei schlechter Witterung nur gemütliches Beisammensein&lt;/p&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2023/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2023/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2023&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 06.04.2023, 9:30 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
- &lt;p&gt;Im Anschluss Vortrag:&lt;br&gt;„Der lebende Schatten - Schattenblüher“&lt;br&gt;Referent: Peter Gasteiger, Gärtner in der Klostergärtnerei Gars&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 06.05.2023, ab 14 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Kirchenhof&lt;/h3&gt;
- &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Gartenbau&amp;shy;verein-Stammtisch&lt;/h2&gt;
- &lt;h3&gt;Freitag, 30.06.2023, um 18 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Gartenbau&amp;shy;verein-Stammtisch&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 27.07.2023, um 19 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
- &lt;p&gt;Wir treffen wir uns regelmäßig jeden letzten Donnerstag im Monat.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Herbstfest&lt;/h2&gt;
- &lt;h3&gt;Sonntag, 17.09.2023, ab 11 Uhr&lt;/h3&gt;
- &lt;h3&gt;am Sportplatz&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Wanderung rund um Kößlarn&lt;/h2&gt;
- &lt;h3&gt;Samstag, 14.10.2023&lt;/h3&gt;
- &lt;h3&gt;Treff 14 Uhr am Marktplatz&lt;/h3&gt;
- &lt;p&gt;Dauer ca. 2,5 Stunden,&lt;br&gt;anschließend gemütliches Beisammensein im Gasthaus Bimesmeier - bei schlechter Witterung nur gemütliches Beisammensein&lt;/p&gt;</description></item><item><title>Jahresprogramm</title><link>https://gbv.web-sb.de/aktuelles/2024/jahresprogramm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2024/jahresprogramm/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahres&amp;shy;programm 2024&lt;/h1&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Baumschneide&amp;shy;kurs&lt;/h2&gt;
- &lt;h3&gt;Samstag, 09.03.2024, 9 Uhr&lt;/h3&gt;
- &lt;h3&gt;beim Bauhof&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 18.04.2024, 19:00 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;
- &lt;p&gt;Im Anschluss Vortrag:&lt;br&gt;„Manche mögen's heiß - unsere Gärten im Klimawandel“&lt;br&gt;Referentin: Brigitte Murla&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Stammtisch&lt;/h2&gt;
- &lt;h3&gt;Donnerstag, 25.04.2024, 19 Uhr&lt;/h3&gt;
- &lt;h3&gt;beim Bimesmeier&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;
- &lt;h3&gt;Samstag, 04.05.2024, ab 14 Uhr&lt;/h3&gt;
- &lt;h3&gt;im Kirchenhof&lt;/h3&gt;
- &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Marktplatzfest Kößlarn&lt;/h2&gt;
- &lt;h3&gt;Freitag, 28.06. und Samstag 29.06.2024&lt;/h3&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Kräuter&amp;shy;wanderung&lt;/h2&gt;
- &lt;h3&gt;Montag, 12.08.2024, 17:30 Uhr&lt;/h3&gt;
- &lt;h3&gt;Treff Parkplatz Grafenwald&lt;/h3&gt;
- &lt;p&gt;Kosten 10 € für Nichtmitglieder | 20 € für Nichtmitglieder&lt;br&gt;max. 15 Teilnehmer, Anmeldung bei Karin Hartl - T 08536/1337 (abends)&lt;/p&gt;</description></item><item><title>Datenschutz</title><link>https://gbv.web-sb.de/datenschutz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/datenschutz/</guid><description>&lt;section&gt;
- &lt;h1&gt;Datenschutz&amp;shy;erklärung&lt;/h1&gt;
-
- &lt;p&gt;
- Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser
- Datenschutz&amp;shy;erklärung. Diese Website ist auf Datensparsamkeit ausgelegt und dient ausschließlich der Bereitstellung von Informationen.
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;1. Verant&amp;shy;wortlicher&lt;/h2&gt;
- &lt;p&gt;
- Verantwortlich für die Datenverarbeitung auf dieser Website ist die im Impressum genannte natürliche oder juristische Person. Bei Fragen zum Datenschutz können Sie sich jederzeit über die dort
- angegebenen Kontaktwege an uns wenden.
- &lt;/p&gt;</description></item><item><title>Impressum</title><link>https://gbv.web-sb.de/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/impressum/</guid><description>&lt;section&gt;
- &lt;h1&gt;Impressum&lt;/h1&gt;
- &lt;h2&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
- &lt;p&gt;
- Verein für Gartenbau und Landespflege Kößlarn e.V.&lt;br /&gt;
- Waldstraße&lt;br /&gt;
- 94149 Kößlarn
- &lt;/p&gt;
- &lt;h3&gt;Vertretungs&amp;shy;berechtigt und inhaltlich verantwortlich gemäß § 5 TMG und § 55 Abs. 2 RStV&lt;/h3&gt;
- &lt;p&gt;
- Karin Hartl, Vorstand&lt;br /&gt;
- Waldstraße&lt;br /&gt;
- 94149 Kößlarn
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Haftungs&amp;shy;ausschluss&lt;/h2&gt;
- &lt;h3&gt;Haftung für Inhalte&lt;/h3&gt;
- &lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;
- &lt;h3&gt;Haftung für Links&lt;/h3&gt;
- &lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.&lt;/p&gt;</description></item><item><title>Apfelsaft</title><link>https://gbv.web-sb.de/aktuelles/2018/apfelsaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2018/apfelsaft/</guid><description>&lt;script&gt;
-window.location.href = "Apfelsaft_2018.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Apfelsaft_2018.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Bericht JHV</title><link>https://gbv.web-sb.de/aktuelles/2019/bericht-jhv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2019/bericht-jhv/</guid><description>&lt;script&gt;
-window.location.href = "Bericht-JHV-2019.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Bericht-JHV-2019.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Bericht JHV</title><link>https://gbv.web-sb.de/aktuelles/2021/bericht-jhv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2021/bericht-jhv/</guid><description>&lt;script&gt;
-window.location.href = "Bericht-JHV-2021.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Bericht-JHV-2021.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Bericht JHV</title><link>https://gbv.web-sb.de/aktuelles/2022/bericht-jhv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2022/bericht-jhv/</guid><description>&lt;script&gt;
-window.location.href = "Bericht-JHV-2022.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Bericht-JHV-2022.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Bericht JHV GBV Koesslarn</title><link>https://gbv.web-sb.de/aktuelles/2018/bericht-jhv--gbv-koesslarn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2018/bericht-jhv--gbv-koesslarn/</guid><description>&lt;script&gt;
-window.location.href = "Bericht-JHV-2018-GBV-Koesslarn.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Bericht-JHV-2018-GBV-Koesslarn.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Gründungsfest</title><link>https://gbv.web-sb.de/aktuelles/2017/gruendungsfest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2017/gruendungsfest/</guid><description>&lt;script&gt;
-window.location.href = "Gruendungsfest._2017.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Gruendungsfest._2017.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Herbstfest</title><link>https://gbv.web-sb.de/aktuelles/2022/herbstfest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2022/herbstfest/</guid><description>&lt;script&gt;
-window.location.href = "Herbstfest-2022.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Herbstfest-2022.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Hochbeet</title><link>https://gbv.web-sb.de/aktuelles/2019/hochbeet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2019/hochbeet/</guid><description>&lt;script&gt;
-window.location.href = "Hoochbeet_2019.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Hoochbeet_2019.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Pflanzaktion</title><link>https://gbv.web-sb.de/aktuelles/2019/pflanzaktion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2019/pflanzaktion/</guid><description>&lt;script&gt;
-window.location.href = "Pflanzaktion 2019.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Pflanzaktion 2019.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Pflanzentauschboerse</title><link>https://gbv.web-sb.de/aktuelles/2022/pflanzentauschboerse/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2022/pflanzentauschboerse/</guid><description>&lt;script&gt;
-window.location.href = "Pflanzentauschboerse_2022.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Pflanzentauschboerse_2022.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>PNP Bericht 17.11.2017</title><link>https://gbv.web-sb.de/aktuelles/2017/pnp-17112017/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2017/pnp-17112017/</guid><description>&lt;script&gt;
-window.location.href = "pnp_17112017.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="pnp_17112017.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>PNP Bericht 22.03.2017</title><link>https://gbv.web-sb.de/aktuelles/2017/pnp-22032017/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2017/pnp-22032017/</guid><description>&lt;script&gt;
-window.location.href = "pnp_22032017.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="pnp_22032017.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Saftpressen</title><link>https://gbv.web-sb.de/aktuelles/2019/saftpressen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2019/saftpressen/</guid><description>&lt;script&gt;
-window.location.href = "Saftpressen_2019.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Saftpressen_2019.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2001</title><link>https://gbv.web-sb.de/aktuelles/2001/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2001/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2001.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2001.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2002</title><link>https://gbv.web-sb.de/aktuelles/2002/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2002/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2002.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2002.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2003</title><link>https://gbv.web-sb.de/aktuelles/2003/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2003/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2003.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2003.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2004</title><link>https://gbv.web-sb.de/aktuelles/2004/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2004/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2004.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2004.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2005</title><link>https://gbv.web-sb.de/aktuelles/2005/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2005/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2005.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2005.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2006</title><link>https://gbv.web-sb.de/aktuelles/2006/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2006/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2006.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2006.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2007</title><link>https://gbv.web-sb.de/aktuelles/2007/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2007/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2007.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2007.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2008</title><link>https://gbv.web-sb.de/aktuelles/2008/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2008/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2008.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2008.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2009</title><link>https://gbv.web-sb.de/aktuelles/2009/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2009/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2009.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2009.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2010</title><link>https://gbv.web-sb.de/aktuelles/2010/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2010/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2010.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2010.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2011</title><link>https://gbv.web-sb.de/aktuelles/2011/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2011/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2011.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2011.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2012</title><link>https://gbv.web-sb.de/aktuelles/2012/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2012/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2012.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2012.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2013</title><link>https://gbv.web-sb.de/aktuelles/2013/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2013/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung2013.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung2013.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2014</title><link>https://gbv.web-sb.de/aktuelles/2014/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2014/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung-2014.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung-2014.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Zeitungsbericht 2015</title><link>https://gbv.web-sb.de/aktuelles/2015/zeitung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/aktuelles/2015/zeitung/</guid><description>&lt;script&gt;
-window.location.href = "Zeitung-2015.pdf";
-&lt;/script&gt;
-&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung-2015.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Start on Verein für Gartenbau und Landespflege Kößlarn</title>
+    <link>http://192.168.1.16:1313/</link>
+    <description>Recent content in Start on Verein für Gartenbau und Landespflege Kößlarn</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="http://192.168.1.16:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vorstandschaft</title>
+      <link>http://192.168.1.16:1313/infos/vorstandschaft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/infos/vorstandschaft/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Vorstand&amp;shy;schaft&lt;/h1&gt;&#xA;  &lt;div class=&#34;grid grid-sm grid-border&#34;&gt;&#xA;    &lt;div class=&#34;grid-item&#34; style=&#34;justify-content: start&#34;&gt;&#xA;      &lt;h3&gt;Karin Hartl&lt;/h3&gt;&#xA;      &lt;p&gt;1. Vorsitzende&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34; style=&#34;justify-content: start&#34;&gt;&#xA;      &lt;h3&gt;Bernhard Müller&lt;/h3&gt;&#xA;      &lt;p&gt;2. Vorsitzender&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34; style=&#34;justify-content: start&#34;&gt;&#xA;      &lt;h3&gt;Ulrike Hartl&lt;/h3&gt;&#xA;      &lt;p&gt;Schriftführerin&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34; style=&#34;justify-content: start&#34;&gt;&#xA;      &lt;h3&gt;Anita Plattner&lt;/h3&gt;&#xA;      &lt;p&gt;Kassiererin&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34; style=&#34;justify-content: start&#34;&gt;&#xA;      &lt;h3&gt;Norbert Hartl&lt;/h3&gt;&#xA;      &lt;p&gt;Beisitzer&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34; style=&#34;justify-content: start&#34;&gt;&#xA;      &lt;h3&gt;Susi Osterholzer&lt;/h3&gt;&#xA;      &lt;p&gt;Beisitzer&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34; style=&#34;justify-content: start&#34;&gt;&#xA;      &lt;h3&gt;Andreas Wagner&lt;/h3&gt;&#xA;      &lt;p&gt;Beisitzer&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34; style=&#34;justify-content: start&#34;&gt;&#xA;      &lt;h3&gt;Hubert Schätz&lt;/h3&gt;&#xA;      &lt;p&gt;Baumwart&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 1997</title>
+      <link>http://192.168.1.16:1313/aktuelles/1997/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/1997/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung1997.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung1997.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mitgliedschaft</title>
+      <link>http://192.168.1.16:1313/infos/mitgliedschaft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/infos/mitgliedschaft/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;div class=&#34;grid grid-lg&#34;&gt;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;cover.webp&#34; width=&#34;512x&#34; alt=&#34;Mitglied werden&#34; /&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;h1&gt;Mitglied&amp;shy;schaft&lt;/h1&gt;&#xA;      &lt;p&gt;Wenn du bei uns Mitglied werden möchtest, fülle bitte die Beitrittserklärung aus und leite diese an die Vorstand&amp;shy;schaft weiter.&lt;/p&gt;&#xA;      &lt;div class=&#34;btn-group&#34;&gt;&#xA;        &lt;a href=&#34;Beitrittserklaerung-DSGVO-2024.pdf&#34; target=&#34;_blank&#34; class=&#34;btn&#34; aria-label=&#34;Beitrittserklärung&#34; title=&#34;Beitrittserklärung&#34;&gt;&lt;i&gt;download&lt;/i&gt;Beitrittserklärung&lt;/a&gt;&#xA;        &lt;a href=&#34;http://192.168.1.16:1313/kontakt/&#34; class=&#34;btn&#34; aria-label=&#34;Kontakt&#34; title=&#34;Kontakt&#34;&gt;&lt;i&gt;contact&lt;/i&gt; Kontakt&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://192.168.1.16:1313/infos/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/infos/kontakt/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h2&gt;Kontakt&lt;/h2&gt;&#xA;  &lt;p&gt;&#xA;    Verein für Gartenbau und Landespflege Kößlarn e.V.&lt;br /&gt;&#xA;    Karin Hartl, Vorstand&lt;br /&gt;&#xA;    Danglöd&lt;br /&gt;&#xA;    94149 Kößlarn&#xA;  &lt;/p&gt;&#xA;   &lt;p&gt;&#xA;    Telefon: 08536 1337&lt;br /&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;div class=&#34;btn-group&#34;&gt;&#xA;    &lt;a class=&#34;btn&#34; href=&#34;tel:+4985361337&#34; aria-label=&#34;Anrufen&#34;&gt;&lt;i&gt;phone&lt;/i&gt; Anrufen&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2025/jahresprogramm/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2025/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2025&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 10.04.2025, 19:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;  &lt;p&gt;Im Anschluss Vortrag:&lt;br&gt;&#34;Ein Garten für Insekten &amp; Co. - unser Beitrag zum Artenschutz&#34;&lt;br&gt;Referent: Alois Schrögmeier&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 03.05.2025, ab 14 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Kirchenhof&lt;/h3&gt;&#xA;  &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Töpferkurs&lt;/h2&gt;&#xA;  &lt;h3&gt;Montag, 02.06.2025, 18 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Grundschule Kößlarn&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Brauerei&amp;shy;besichtigung&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 12.07.2025, 16 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Weissbräu Kößlarn&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Herbstfest&lt;/h2&gt;&#xA;  &lt;h3&gt;Sonntag, 21.09.2025, ab 11 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Sportplatz Kößlarn&lt;/h3&gt;&#xA;  &lt;p&gt;mit Kürbiswiegen&lt;/p&gt;&#xA;  &lt;div class=&#34;btn-group&#34;&gt;&#xA;    &lt;a href=&#34;../herbstfest/&#34; class=&#34;btn&#34;&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Herbstwanderung&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 18.10.2025&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Kripperlweg&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 13.12.2025 und Sonntag, 14.12.2025&lt;/h3&gt;&#xA;  &lt;div class=&#34;btn-group&#34;&gt;&#xA;    &lt;a href=&#34;../kripperlweg/&#34; class=&#34;btn&#34;&gt;&lt;i&gt;arrow_forward&lt;/i&gt;Details&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Kripperlweg</title>
+      <link>http://192.168.1.16:1313/aktuelles/2025/kripperlweg/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2025/kripperlweg/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;div class=&#34;grid grid-lg&#34;&gt;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img class=&#34;img-gallery&#34; src=&#34;cover.webp&#34; width=&#34;512x&#34; alt=&#34;Kripperlweg&#34; /&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;h1&gt;Kripperl&amp;shy;weg&lt;/h1&gt;&#xA;      &lt;p&gt;Lassen Sie sich verzaubern von den vielfältigen Krippendarstellungen entlang unseres Weges.&lt;/p&gt;&#xA;      &lt;div class=&#34;btn-group&#34;&gt;&#xA;        &lt;a class=&#34;btn&#34; target=&#34;_blank&#34; href=&#34;https://www.google.com/maps?q=Krippenwanderweg,+94149+Kößlarn&#34; aria-label=&#34;Anfahrt planen&#34;&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Eindrücke&lt;/h2&gt;&#xA;  &lt;div class=&#34;img-group&#34;&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-01.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 1&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-02.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 2&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-03.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 3&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-04.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 4&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-05.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 5&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-06.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 6&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-07.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 7&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-08.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 8&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-09.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 9&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-10.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 10&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-11.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 11&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-12.webp&#34; width=&#34;1000x&#34; alt=&#34;Kripperlweg Eindruck 12&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Herbstfest</title>
+      <link>http://192.168.1.16:1313/aktuelles/2025/herbstfest/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2025/herbstfest/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;div class=&#34;grid grid-lg&#34;&gt;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img class=&#34;img-gallery&#34; src=&#34;cover.webp&#34; width=&#34;1024x&#34; alt=&#34;Herbstfest&#34; /&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;h1&gt;Herbst&amp;shy;fest&lt;/h1&gt;&#xA;      &lt;p&gt;Wir laden herzlich zu unserem Herbstfest ein. Ein Highlight ist wie jedes Jahr das Kürbiswiegen.&lt;/p&gt;&#xA;  &lt;a href=&#34;https://www.google.com/maps?q=TSV+Kößlarn,+Waldstraße+27,+94149+Kößlarn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn&#34; aria-label=&#34;Anfahrt planen&#34; title=&#34;Anfahrt planen&#34;&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Eindrücke&lt;/h2&gt;&#xA;  &lt;div class=&#34;img-group&#34;&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-01.webp&#34; width=&#34;1000x&#34; alt=&#34;Herbstfest Eindruck 1&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-02.webp&#34; width=&#34;1000x&#34; alt=&#34;Herbstfest Eindruck 2&#34; /&gt;&#xA;    &lt;img class=&#34;img-gallery&#34; src=&#34;img-03.webp&#34; width=&#34;1000x&#34; alt=&#34;Herbstfest Eindruck 3&#34; /&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Häufige Fragen&lt;/h2&gt;&#xA;  &lt;details&gt;&#xA;    &lt;summary&gt;Kann jeder am Kürbiswiegen teilnehmen?&lt;/summary&gt;&#xA;    &lt;p&gt;Ja, jeder Hobbygärtner ist herzlich eingeladen, seinen Riesenkürbis wiegen zu lassen. Eine Anmeldung ist vor Ort möglich.&lt;/p&gt;&#xA;  &lt;/details&gt;&#xA;  &lt;details&gt;&#xA;    &lt;summary&gt;Findet das Fest bei Regen statt?&lt;/summary&gt;&#xA;    &lt;p&gt;Ja, das Fest findet bei jeder Witterung statt. Bei schlechtem Wetter bieten wir überdachte Sitzmöglichkeiten an.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2014/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2014/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2014&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 20. März 2014, 19:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier-Eichler&lt;/h3&gt;&#xA;  &lt;p&gt;anschl. Vortrag über Kräuter, Referentin: Frau Eder&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 03. Mai 2014, ab 9:00 Uhr&lt;/h3&gt;&#xA;  &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Fahrt zur Landesgarten&amp;shy;schau Deggendorf&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 31. Mai 2014, 9 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Abfahrt am Marktplatz&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Ferienprogramm&lt;/h2&gt;&#xA;  &lt;h3&gt;Freitag, 01. August 2014&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Erntedankfest&lt;/h2&gt;&#xA;  &lt;h3&gt;Sonntag, 14. September 2014&lt;/h3&gt;&#xA;  &lt;p&gt;Beteiligung mit Verkaufsstand&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Natürlicher Allerheiligen Grabschmuck selbstgemacht&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 23. Oktober 2014, ab 19:30 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Jugendheim&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Weitere Termine&lt;/h2&gt;&#xA;  &lt;p&gt;12.-18. März: Garten München&lt;br&gt;26. April: Tag der offenen Gärtnerei&lt;br&gt;29. Juni: Tag der offenen Gartentür&lt;br&gt;17. Oktober: Gartlerabend&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2015/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2015/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2015&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 26. März 2015, 19:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier-Eichler&lt;/h3&gt;&#xA;  &lt;p&gt;anschl. Vortrag über „Seniorengärten pflegeleicht gestalten“&lt;br&gt;Referent: Leopold Haschka&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Weidenflecht&amp;shy;kurs-Rankobjekte&lt;/h2&gt;&#xA;  &lt;h3&gt;Dienstag, 14. April 2015, 18:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Treff um 17:45 am Marktplatz&lt;/h3&gt;&#xA;  &lt;p&gt;Referentin: Conny Raab&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 02. Mai 2015, ab 9:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Marktplatz, Durchgang Piller&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Grillabend der Eberschützen&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 13. Juni 2015&lt;/h3&gt;&#xA;  &lt;h3&gt;Treff 18:30 Uhr beim Festgelände, Gasthaus Wieser&lt;/h3&gt;&#xA;  &lt;p&gt;mit Siegerehrung Gemeindepokalschießen&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Festzug der Eberschützen&lt;/h2&gt;&#xA;  &lt;h3&gt;Sonntag, 14. Juni 2015&lt;/h3&gt;&#xA;  &lt;h3&gt;Teff 8:30 Uhr beim Festgelände, Gasthaus Wieser&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Ausflug Schaukäserei Kuchl&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 25. Juli 2015&lt;/h3&gt;&#xA;  &lt;h3&gt;Abfahrt Marktplatz 9:30 Uhr&lt;/h3&gt;&#xA;  &lt;p&gt;Biobauernhof Fürstenhof Kuchl, Einkehr Christlalm&lt;br&gt;Kosten: 28 Euro&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2016/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2016/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2016&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 14. April 2016, 19:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;  &lt;p&gt;anschl. Vortrag über &#34;Des Gärtners größter Feind&#34; – Humorvoller Vortrag zum verbesserten Verständnis der Schnecken.&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 07. Mai 2016, 9:00 - 12:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Marktplatz, Durchgang Piller&lt;/h3&gt;&#xA;  &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Ausflug Lofer - Pillersee&lt;/h2&gt;&#xA;  &lt;h3&gt;24. September 2016&lt;/h3&gt;&#xA;  &lt;h3&gt;Abfahrt 7:00 Uhr Marktplatz&lt;/h3&gt;&#xA;  &lt;p&gt;Gemeinsamer Ausflug von Frauenbund und Gartenbau&amp;shy;verein&lt;br&gt;Heutal, Wallfahrt Maria Kirchental, Latschenölbrennerei St. Ulrich, Pillersee&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Schwammerlsuche&lt;/h2&gt;&#xA;  &lt;h3&gt;30. Oktober 2016, 10:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Treff am Stapferparkplatz&lt;/h3&gt;&#xA;  &lt;p&gt;anschließend Einkehr in der Pizzeria zum Wiegen&lt;br&gt;1.-3. Platz Preise bei Pizzeria Rahim&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2017/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2017/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2017&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;Mittwoch, 08. März 2017, 19:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;  &lt;p&gt;anschl. Vortrag über &#34;Gemüseverfrühung&#34; – Referent: Peter Gasteiger&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 06. Mai 2017, 9:00 - 12:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Marktplatz, Durchgang Hausner (Bachwieserl)&lt;/h3&gt;&#xA;  &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;25-Jahr-Feier Gartenbau&amp;shy;verein Kößlarn&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 24. Juni 2017&lt;/h3&gt;&#xA;  &lt;p&gt;14:00 Uhr: Gottesdienst&lt;br&gt;15:00 Uhr: Kaffee und Kuchen&lt;br&gt;ab 17:00 Uhr: Abendessen mit Ehrungen&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Ausflug zur Landesgarten&amp;shy;schau&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 12. August 2017&lt;/h3&gt;&#xA;  &lt;h3&gt;Kremsmünster&lt;/h3&gt;&#xA;  &lt;p&gt;Abfahrt Marktplatz: 8.30 Uhr Rückkehr: ca. 18.30 Uhr&lt;br&gt;Kosten (Fahrt inkl.Eintritt): 28Eur/Person - 9 Eur/Kind&lt;br&gt;THEMA an diesem Tag: Fest der Vielfalt!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2018/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2018/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2018&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Vortrag: Patienten&amp;shy;verfügung&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 11. Januar 2018, 19:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;  &lt;p&gt;Thema: „Patienten&amp;shy;verfügung, Vorsorgevollmacht mit Betreuungsverfügung“&lt;br&gt;&#xA;  Referentin: Sr. M. Paula Helm, Krankenschwester OSB&lt;br&gt;&#xA;  Wann ist eine Patienten&amp;shy;verfügung gültig? Warum dürfen Ehepartner oder Angehörige im Krankheitsfall nicht gegenseitig bestimmen...?&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 05.Mai 2018, ab 9:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Marktplatz, Durchgang Hausner (Bachwieserl)&lt;/h3&gt;&#xA;   &lt;p&gt;mit Kaffee und Kuchen und Kinderflohmarkt&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;17. Mai 2018, 19:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;  &lt;p&gt;mit Neuwahlen&lt;br&gt;Im Anschluss Vortrag: „Man ist was man isst“&lt;br&gt;Referentin: Frau Dr. Christina Holzapfel&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2019/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2019/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2019&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 04. Mai 2019, ab 9:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Marktplatz, Durchgang Hausner (Bachwieserl)&lt;/h3&gt;&#xA;  &lt;p&gt;mit Kaffee und Kuchen und Kinderflohmarkt&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 16. Mai 2019, 19:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2021/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2021/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2021&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Wanderung rund um Kößlarn&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 02.10.2021&lt;/h3&gt;&#xA;  &lt;h3&gt;Treff 14 Uhr am Marktplatz&lt;/h3&gt;&#xA;  &lt;p&gt;Dauer ca. 2 Stunden, anschl. Einkehr im Gasthaus Bimesmeier, Info und Anmeldung bei Bernhard Müller - Tel. 0170 2128195&lt;/p&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2022/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2022/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2022&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 05.05.2022, 19:30 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;  &lt;p&gt;Im Anschluss Vortrag:&lt;br&gt;„Was Opa noch wusste! Altes Gärtnerwissen neu entdeckt.“&lt;br&gt;Referent: Alois Schrögmeier&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 07.05.2022, ab 14:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Kirchenhof&lt;/h3&gt;&#xA;  &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Herbstfest&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 17.09.2022, ab 16 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Sportplatz Kößlarn&lt;/h3&gt;&#xA;   &lt;p&gt;Kürbisiwiegen mit Prämierung&lt;br&gt;Kürbissuppe, Mostverkauf, Kaffee + Kuchen, ...&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Wanderung rund um Kößlarn&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 15.10.2022&lt;/h3&gt;&#xA;  &lt;h3&gt;Treff 13:30 Uhr am Marktplatz&lt;/h3&gt;&#xA;  &lt;p&gt;Dauer ca. 2,5 Stunden,&lt;br&gt;anschließend gemütliches Beisammensein im Gasthaus Bimesmeier - bei schlechter Witterung nur gemütliches Beisammensein&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2023/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2023/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2023&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 06.04.2023, 9:30 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;  &lt;p&gt;Im Anschluss Vortrag:&lt;br&gt;„Der lebende Schatten - Schattenblüher“&lt;br&gt;Referent: Peter Gasteiger, Gärtner in der Klostergärtnerei Gars&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 06.05.2023, ab 14 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Kirchenhof&lt;/h3&gt;&#xA;  &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Gartenbau&amp;shy;verein-Stammtisch&lt;/h2&gt;&#xA;  &lt;h3&gt;Freitag, 30.06.2023, um 18 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Gartenbau&amp;shy;verein-Stammtisch&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 27.07.2023, um 19 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;  &lt;p&gt;Wir treffen wir uns regelmäßig jeden letzten Donnerstag im Monat.&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Herbstfest&lt;/h2&gt;&#xA;  &lt;h3&gt;Sonntag, 17.09.2023, ab 11 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;am Sportplatz&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Wanderung rund um Kößlarn&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 14.10.2023&lt;/h3&gt;&#xA;  &lt;h3&gt;Treff 14 Uhr am Marktplatz&lt;/h3&gt;&#xA;  &lt;p&gt;Dauer ca. 2,5 Stunden,&lt;br&gt;anschließend gemütliches Beisammensein im Gasthaus Bimesmeier - bei schlechter Witterung nur gemütliches Beisammensein&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jahresprogramm</title>
+      <link>http://192.168.1.16:1313/aktuelles/2024/jahresprogramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2024/jahresprogramm/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Jahres&amp;shy;programm 2024&lt;/h1&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Baumschneide&amp;shy;kurs&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 09.03.2024, 9 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;beim Bauhof&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Jahreshaupt&amp;shy;versammlung&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 18.04.2024, 19:00 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Gasthaus Bimesmeier&lt;/h3&gt;&#xA;  &lt;p&gt;Im Anschluss Vortrag:&lt;br&gt;„Manche mögen&#39;s heiß - unsere Gärten im Klimawandel“&lt;br&gt;Referentin: Brigitte Murla&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Stammtisch&lt;/h2&gt;&#xA;  &lt;h3&gt;Donnerstag, 25.04.2024, 19 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;beim Bimesmeier&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Pflanzentausch&amp;shy;börse&lt;/h2&gt;&#xA;  &lt;h3&gt;Samstag, 04.05.2024, ab 14 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;im Kirchenhof&lt;/h3&gt;&#xA;  &lt;p&gt;mit Kaffee und Kuchen&lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Marktplatzfest Kößlarn&lt;/h2&gt;&#xA;  &lt;h3&gt;Freitag, 28.06. und Samstag 29.06.2024&lt;/h3&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Kräuter&amp;shy;wanderung&lt;/h2&gt;&#xA;  &lt;h3&gt;Montag, 12.08.2024, 17:30 Uhr&lt;/h3&gt;&#xA;  &lt;h3&gt;Treff Parkplatz Grafenwald&lt;/h3&gt;&#xA;  &lt;p&gt;Kosten 10 € für Nichtmitglieder | 20 € für Nichtmitglieder&lt;br&gt;max. 15 Teilnehmer, Anmeldung bei Karin Hartl - T 08536/1337 (abends)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Datenschutz</title>
+      <link>http://192.168.1.16:1313/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/datenschutz/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Datenschutz&amp;shy;erklärung&lt;/h1&gt;&#xA;&#xA;  &lt;p&gt;&#xA;    Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser&#xA;    Datenschutz&amp;shy;erklärung. Diese Website ist auf Datensparsamkeit ausgelegt und dient ausschließlich der Bereitstellung von Informationen.&#xA;  &lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;1. Verant&amp;shy;wortlicher&lt;/h2&gt;&#xA;  &lt;p&gt;&#xA;    Verantwortlich für die Datenverarbeitung auf dieser Website ist die im Impressum genannte natürliche oder juristische Person. Bei Fragen zum Datenschutz können Sie sich jederzeit über die dort&#xA;    angegebenen Kontaktwege an uns wenden.&#xA;  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://192.168.1.16:1313/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/impressum/</guid>
+      <description>&lt;section&gt;&#xA;  &lt;h1&gt;Impressum&lt;/h1&gt;&#xA;  &lt;h2&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;&#xA;  &lt;p&gt;&#xA;    Verein für Gartenbau und Landespflege Kößlarn e.V.&lt;br /&gt;&#xA;    Danglöd&lt;br /&gt;&#xA;    94149 Kößlarn&#xA;  &lt;/p&gt;&#xA;  &lt;h3&gt;Vertretungs&amp;shy;berechtigt und inhaltlich verantwortlich gemäß § 5 TMG und § 55 Abs. 2 RStV&lt;/h3&gt;&#xA;  &lt;p&gt;&#xA;    Karin Hartl, Vorstand&lt;br /&gt;&#xA;    Danglöd&lt;br /&gt;&#xA;    94149 Kößlarn&#xA;  &lt;/p&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section&gt;&#xA;  &lt;h2&gt;Haftungs&amp;shy;ausschluss&lt;/h2&gt;&#xA;  &lt;h3&gt;Haftung für Inhalte&lt;/h3&gt;&#xA;  &lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;&#xA;  &lt;h3&gt;Haftung für Links&lt;/h3&gt;&#xA;  &lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apfelsaft</title>
+      <link>http://192.168.1.16:1313/aktuelles/2018/apfelsaft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2018/apfelsaft/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Apfelsaft_2018.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Apfelsaft_2018.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bericht JHV</title>
+      <link>http://192.168.1.16:1313/aktuelles/2019/bericht-jhv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2019/bericht-jhv/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Bericht-JHV-2019.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Bericht-JHV-2019.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bericht JHV</title>
+      <link>http://192.168.1.16:1313/aktuelles/2021/bericht-jhv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2021/bericht-jhv/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Bericht-JHV-2021.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Bericht-JHV-2021.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bericht JHV</title>
+      <link>http://192.168.1.16:1313/aktuelles/2022/bericht-jhv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2022/bericht-jhv/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Bericht-JHV-2022.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Bericht-JHV-2022.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bericht JHV  GBV Koesslarn</title>
+      <link>http://192.168.1.16:1313/aktuelles/2018/bericht-jhv--gbv-koesslarn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2018/bericht-jhv--gbv-koesslarn/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Bericht-JHV-2018-GBV-Koesslarn.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Bericht-JHV-2018-GBV-Koesslarn.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gründungsfest</title>
+      <link>http://192.168.1.16:1313/aktuelles/2017/gruendungsfest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2017/gruendungsfest/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Gruendungsfest._2017.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Gruendungsfest._2017.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Herbstfest</title>
+      <link>http://192.168.1.16:1313/aktuelles/2022/herbstfest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2022/herbstfest/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Herbstfest-2022.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Herbstfest-2022.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hochbeet</title>
+      <link>http://192.168.1.16:1313/aktuelles/2019/hochbeet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2019/hochbeet/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Hoochbeet_2019.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Hoochbeet_2019.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pflanzaktion</title>
+      <link>http://192.168.1.16:1313/aktuelles/2019/pflanzaktion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2019/pflanzaktion/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Pflanzaktion 2019.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Pflanzaktion 2019.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pflanzentauschboerse</title>
+      <link>http://192.168.1.16:1313/aktuelles/2022/pflanzentauschboerse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2022/pflanzentauschboerse/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Pflanzentauschboerse_2022.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Pflanzentauschboerse_2022.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PNP Bericht 17.11.2017</title>
+      <link>http://192.168.1.16:1313/aktuelles/2017/pnp-17112017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2017/pnp-17112017/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;pnp_17112017.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;pnp_17112017.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PNP Bericht 22.03.2017</title>
+      <link>http://192.168.1.16:1313/aktuelles/2017/pnp-22032017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2017/pnp-22032017/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;pnp_22032017.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;pnp_22032017.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saftpressen</title>
+      <link>http://192.168.1.16:1313/aktuelles/2019/saftpressen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2019/saftpressen/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Saftpressen_2019.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Saftpressen_2019.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2001</title>
+      <link>http://192.168.1.16:1313/aktuelles/2001/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2001/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2001.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2001.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2002</title>
+      <link>http://192.168.1.16:1313/aktuelles/2002/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2002/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2002.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2002.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2003</title>
+      <link>http://192.168.1.16:1313/aktuelles/2003/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2003/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2003.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2003.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2004</title>
+      <link>http://192.168.1.16:1313/aktuelles/2004/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2004/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2004.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2004.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2005</title>
+      <link>http://192.168.1.16:1313/aktuelles/2005/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2005/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2005.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2005.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2006</title>
+      <link>http://192.168.1.16:1313/aktuelles/2006/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2006/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2006.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2006.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2007</title>
+      <link>http://192.168.1.16:1313/aktuelles/2007/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2007/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2007.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2007.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2008</title>
+      <link>http://192.168.1.16:1313/aktuelles/2008/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2008/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2008.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2008.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2009</title>
+      <link>http://192.168.1.16:1313/aktuelles/2009/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2009/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2009.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2009.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2010</title>
+      <link>http://192.168.1.16:1313/aktuelles/2010/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2010/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2010.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2010.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2011</title>
+      <link>http://192.168.1.16:1313/aktuelles/2011/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2011/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2011.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2011.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2012</title>
+      <link>http://192.168.1.16:1313/aktuelles/2012/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2012/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2012.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2012.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2013</title>
+      <link>http://192.168.1.16:1313/aktuelles/2013/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2013/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung2013.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung2013.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2014</title>
+      <link>http://192.168.1.16:1313/aktuelles/2014/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2014/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung-2014.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung-2014.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeitungsbericht 2015</title>
+      <link>http://192.168.1.16:1313/aktuelles/2015/zeitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.16:1313/aktuelles/2015/zeitung/</guid>
+      <description>&lt;script&gt;&#xA;window.location.href = &#34;Zeitung-2015.pdf&#34;;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href=&#34;Zeitung-2015.pdf&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
