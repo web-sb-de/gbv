@@ -1,13 +1,5 @@
 # TODO:
-
-## /
-
-- Texte
-
-## /verein
-
-- Bilder und Texte
-
-## /termine
-
-- Aktuelle Daten
+- Kontakt, Impressum
+- Logo 
+- Kürbisfest, usw für 2025 überarbeiten
+- Eintrag für 2026
