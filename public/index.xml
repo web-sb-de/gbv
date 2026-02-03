@@ -43,7 +43,7 @@ window.location.href = "Zeitung1997.pdf";
 &lt;p&gt;Falls die Datei nicht automatisch öffnet, klicken Sie bitte &lt;a href="Zeitung1997.pdf"&gt;hier&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Mitgliedschaft</title><link>https://gbv.web-sb.de/infos/mitgliedschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/mitgliedschaft/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
- &lt;img src="cover.webp" width="512x" alt="Mitglied werden" /&gt;
+ &lt;img class="img-gallery" src="cover.webp" width="512x" alt="Mitglied werden" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Mitglied&amp;shy;schaft&lt;/h1&gt;
@@ -478,7 +478,7 @@ window.location.href = "Zeitung1997.pdf";
  &lt;h2&gt;Kräuter&amp;shy;wanderung&lt;/h2&gt;
  &lt;h3&gt;Montag, 12.08.2024, 17:30 Uhr&lt;/h3&gt;
  &lt;h3&gt;Treff Parkplatz Grafenwald&lt;/h3&gt;
- &lt;p&gt;Kosten 10 € für Nichtmitglieder | 20 € für Nichtmitglieder&lt;br&gt;max. 15 Teilnehmer, Anmeldung bei Karin Hartl - T 08536/1337 (abends)&lt;/p&gt;</description></item><item><title>Datenschutz</title><link>https://gbv.web-sb.de/datenschutz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/datenschutz/</guid><description>&lt;section&gt;
+ &lt;p&gt;Kosten 10 € für Nichtmitglieder | 20 € für Nichtmitglieder&lt;br&gt;max. 15 Teilnehmer, Anmeldung bei Karin Hartl - T 08536/1337 (abends)&lt;/p&gt;</description></item><item><title>Datenschutz</title><link>https://gbv.web-sb.de/infos/datenschutz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/datenschutz/</guid><description>&lt;section&gt;
  &lt;h1&gt;Datenschutz&amp;shy;erklärung&lt;/h1&gt;
 
  &lt;p&gt;
@@ -492,7 +492,7 @@ window.location.href = "Zeitung1997.pdf";
  &lt;p&gt;
  Verantwortlich für die Datenverarbeitung auf dieser Website ist die im Impressum genannte natürliche oder juristische Person. Bei Fragen zum Datenschutz können Sie sich jederzeit über die dort
  angegebenen Kontaktwege an uns wenden.
- &lt;/p&gt;</description></item><item><title>Impressum</title><link>https://gbv.web-sb.de/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/impressum/</guid><description>&lt;section&gt;
+ &lt;/p&gt;</description></item><item><title>Impressum</title><link>https://gbv.web-sb.de/infos/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/impressum/</guid><description>&lt;section&gt;
  &lt;h1&gt;Impressum&lt;/h1&gt;
  &lt;h2&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
  &lt;p&gt;

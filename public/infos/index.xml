@@ -37,7 +37,7 @@
 &lt;/section&gt;</description></item><item><title>Mitgliedschaft</title><link>https://gbv.web-sb.de/infos/mitgliedschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/mitgliedschaft/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
- &lt;img src="cover.webp" width="512x" alt="Mitglied werden" /&gt;
+ &lt;img class="img-gallery" src="cover.webp" width="512x" alt="Mitglied werden" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Mitglied&amp;shy;schaft&lt;/h1&gt;
@@ -62,4 +62,39 @@
  &lt;div class="btn-group"&gt;
  &lt;a class="btn" href="tel:+4985361337" aria-label="Anrufen"&gt;&lt;i&gt;phone&lt;/i&gt; Anrufen&lt;/a&gt;
  &lt;/div&gt;
-&lt;/section&gt;</description></item></channel></rss>
+&lt;/section&gt;</description></item><item><title>Datenschutz</title><link>https://gbv.web-sb.de/infos/datenschutz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/datenschutz/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Datenschutz&amp;shy;erklärung&lt;/h1&gt;
+
+ &lt;p&gt;
+ Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser
+ Datenschutz&amp;shy;erklärung. Diese Website ist auf Datensparsamkeit ausgelegt und dient ausschließlich der Bereitstellung von Informationen.
+ &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;1. Verant&amp;shy;wortlicher&lt;/h2&gt;
+ &lt;p&gt;
+ Verantwortlich für die Datenverarbeitung auf dieser Website ist die im Impressum genannte natürliche oder juristische Person. Bei Fragen zum Datenschutz können Sie sich jederzeit über die dort
+ angegebenen Kontaktwege an uns wenden.
+ &lt;/p&gt;</description></item><item><title>Impressum</title><link>https://gbv.web-sb.de/infos/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gbv.web-sb.de/infos/impressum/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Impressum&lt;/h1&gt;
+ &lt;h2&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
+ &lt;p&gt;
+ Verein für Gartenbau und Landespflege Kößlarn e.V.&lt;br /&gt;
+ Danglöd&lt;br /&gt;
+ 94149 Kößlarn
+ &lt;/p&gt;
+ &lt;h3&gt;Vertretungs&amp;shy;berechtigt und inhaltlich verantwortlich gemäß § 5 TMG und § 55 Abs. 2 RStV&lt;/h3&gt;
+ &lt;p&gt;
+ Karin Hartl, Vorstand&lt;br /&gt;
+ Danglöd&lt;br /&gt;
+ 94149 Kößlarn
+ &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;Haftungs&amp;shy;ausschluss&lt;/h2&gt;
+ &lt;h3&gt;Haftung für Inhalte&lt;/h3&gt;
+ &lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;
+ &lt;h3&gt;Haftung für Links&lt;/h3&gt;
+ &lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.&lt;/p&gt;</description></item></channel></rss>
