@@ -4,7 +4,7 @@
   "title": "Verein für Gartenbau und Landespflege Kößlarn",
   "enableRobotsTXT": true,
   "taxonomies": {
-    "tag": "tags"
+    "tag": "kategorien"
   },
   "frontmatter": {
     "lastmod": ["lastmod", ":fileModTime", ":default"]
